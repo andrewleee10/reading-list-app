@@ -1,0 +1,26 @@
+{
+  "name": "reading-list-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewleee10/reading-list-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewleee10/reading-list-app/issues"
+  },
+  "homepage": "https://github.com/andrewleee10/reading-list-app#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mongodb": "^3.6.5",
+    "mongojs": "^3.1.0"
+  }
+}
